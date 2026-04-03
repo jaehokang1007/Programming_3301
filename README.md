@@ -2,7 +2,7 @@
 ## 02_counter
 vanilla HTML, JavaScript
 
-### CounterApp 💀
+### CounterApp 💀💀💀
 `useState()`
 `onClick={() => set함수()}`
 `onClick={() => set함수((이전state) => 이전state + 1)}`
